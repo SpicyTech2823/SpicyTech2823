@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**SpicyTech2823/SpicyTech2823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sakirin</h1>
+<h3 align="center">IT Engineering Student | Front-End Developer | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer;CryptoLearn+Project+Creator;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 IT Engineering student at Royal University of Phnom Penh
+- 💻 Interested in Wep/App Development & AI
+- 📚 Currently improving coding & English skills
+- 🌍 From Tbong Khmum, Cambodia
+
+---
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,figma,git,github,mysql" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
