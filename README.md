@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sakirin</h1>
-<h3 align="center">IT Engineering Student | Web Developer</h3>
+<h3 align="center">IT Engineering Student | Web/App Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer;CryptoLearn+Project+Creator;Always+Learning+New+Things" />
