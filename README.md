@@ -4,7 +4,7 @@
 <h3 align="center">IT Engineering Student | Web/App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web+Developer;CryptoLearn+Project+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web/App+Developer;Car+Rental+Project+Creator;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,figma,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,java,python,figma,git,github,mysql" />
 </p>
 
 ---
