@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sakirin</h1>
-<h3 align="center">IT Engineering Student | Web/App Developer</h3>
+<h3 align="center">IT Engineering Student | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Web/App+Developer;Car+Rental+Project+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Developer;Car+Rental+Project+Creator;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 IT Engineering student at Royal University of Phnom Penh
-- 💻 Interested in Wep/App Development & AI
+- 💻 Interested in Full-Stack Development & AI
 - 📚 Currently improving coding & English skills
 - 🌍 From Tbong Khmum, Cambodia
 
@@ -29,11 +29,11 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SpicyTech2823">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/sakirin-sles-86b356387">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
